@@ -1,7 +1,8 @@
 # quick-json-server
 
-Node App stub to run the [JSON-Server](https://www.npmjs.com/package/json-server) for any `db-*.json` files into a full REST service without spending a lot of time to 
-create a service to connect into a database, marshal the result set into a readable json, etc ...
+Node App stub to run the [JSON-Server](https://www.npmjs.com/package/json-server) into a full REST service without 
+spending a lot of time to create a service to connect into a database, marshal the result set into a readable json, 
+etc ...
 
 ## Requirements
 
